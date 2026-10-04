@@ -18,7 +18,7 @@ be authenticated).
 
 ## Backtest
 
-| Year | Actual change | Predicted | Error (pts) | Model RMSE | Naive RMSE |
+| Year | Actual change | Predicted | Error (pts) | Model RMSE | Naive* RMSE |
 |---|---|---|---|---|---|
 | 2020 | 2.72% | 1.91% | −0.80 | 0.0319 | 0.0390 |
 | 2021 | 3.75% | 2.83% | −0.92 | 0.0367 | 0.0427 |
@@ -26,9 +26,9 @@ be authenticated).
 | 2023 | 2.17% | 4.54% | +2.37 | 0.0487 | 0.0557 |
 | 2024 | 1.84% | 3.05% | +1.21 | 0.0488 | 0.0564 |
 | 2025 | 3.82% | 3.71% | −0.12 | 0.0500 | 0.0630 |
-| **Average 2023–2025** | **2.61%** | **3.77%** | **1.23*** | **0.0492** | **0.0584** |
-| **Average 2020–2025** | **3.17%** | **3.32%** | **1.04*** | **0.0428** | **0.0507** |
+| **Average 2023–2025** | **2.61%** | **3.77%** | **1.23** | **0.0492** | **0.0584** |
+| **Average 2020–2025** | **3.17%** | **3.32%** | **1.04** | **0.0428** | **0.0507** |
 
-*naive = last year's mean change. Average errors are mean absolute errors.
+*naive = last year's mean change.
 
 Special thanks to Claude Code for generating the charts found in our notebook.
