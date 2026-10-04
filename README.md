@@ -1,2 +1,5 @@
-# codeml-2026
-CodeML est un hackathon unique en son genre. S'étalant sur 24 heures, il consiste en une série de défis sur l'apprentissage machine de difficulté croissante.
+# CodeML 2026
+## Jadco challenge - Collection Équinoxe
+Our task was to:
+- estimate Collection Équinoxe’s 2026 rent increase using the history of six buildings in Québec and Ontario
+- define the increase measured and justify method
